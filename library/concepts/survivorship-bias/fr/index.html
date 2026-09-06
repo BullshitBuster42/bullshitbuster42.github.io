@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  
+  <title>Biais du Survivant | Bullshit Buster</title>
+
+  
+  
+  
+  
+
+  <meta name="description" content="Une erreur logique qui se produit lorsque des conclusions sont tirées d&#39;un ensemble de données composé uniquement des &#39;survivants&#39; d&#39;un processus de sélectio...">
+
+  
+  <link rel="canonical" href="https://bullshitbuster.eu/library/concepts/survivorship-bias/fr/">
+  <meta name="generator" content="Jekyll v4.4.1">
+
+  
+  <meta property="og:title" content="Biais du Survivant">
+  <meta property="og:description" content="Une erreur logique qui se produit lorsque des conclusions sont tirées d&#39;un ensemble de données composé uniquement des &#39;survivants&#39; d&#39;un processus de sélection, en ignorant les cas qui n&#39;ont pas sur...">
+  <meta property="og:url" content="https://bullshitbuster.eu/library/concepts/survivorship-bias/fr/">
+  <meta property="og:site_name" content="Bullshit Buster">
+  <meta property="og:locale" content="fr_FR">
+  
+  <meta property="og:type" content="article">
+  
+  
+  
+  
+  
+  
+  
+  <meta property="og:image" content="https://bullshitbuster.eu/assets/images/concept-cards/survivorship-bias-fr.png">
+  
+  <meta property="og:image:width" content="1600">
+  <meta property="og:image:height" content="800">
+  
+
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:domain" content="bullshitbuster.eu">
+  <meta name="twitter:url" content="https://bullshitbuster.eu/library/concepts/survivorship-bias/fr/">
+  <meta name="twitter:title" content="Biais du Survivant">
+  <meta name="twitter:description" content="Une erreur logique qui se produit lorsque des conclusions sont tirées d&#39;un ensemble de données composé uniquement des &#39;survivants&#39; d&#39;un processus de sélection, en ignorant les cas qui n&#39;ont pas sur...">
+  <meta name="twitter:image" content="https://bullshitbuster.eu/assets/images/concept-cards/survivorship-bias-fr.png">
+  <meta name="twitter:site" content="@bsbuster42">
+  <meta name="twitter:creator" content="@bsbuster42">
+
+  
+  
+  
+  
+  <link rel="alternate" hreflang="fr" href="https://bullshitbuster.eu/library/concepts/survivorship-bias/fr/">
+  <link rel="alternate" hreflang="en" href="https://bullshitbuster.eu/library/concepts/survivorship-bias/en/">
+  <link rel="alternate" hreflang="x-default" href="https://bullshitbuster.eu/library/concepts/survivorship-bias/en/">
+  
+  
+
+  
+  
+  
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Biais du Survivant",
+    "description": "Une erreur logique qui se produit lorsque des conclusions sont tirées d'un ensemble de données composé uniquement des 'survivants' d'un processus de sélection, en ignorant les cas qui n'ont pas survécu et qui sont donc invisibles pour l'analyse. Comme les échecs ne laissent aucune trace, l'échant...",
+    "url": "https://bullshitbuster.eu/library/concepts/survivorship-bias/fr/"
+  }
+  </script>
+  
+
+  <!-- Favicons -->
+  <link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="48x48" href="/assets/images/favicon-48x48.png">
+  <link rel="apple-touch-icon" sizes="48x48" href="/assets/images/favicon-48x48.png">
+  
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+  <!-- Noto Color Emoji for Android keycap emoji support -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap" rel="stylesheet">
+  
+  <link type="application/atom+xml" rel="alternate" href="https://bullshitbuster.eu/feed.xml" title="Bullshit Buster" />
+  
+  <!-- Language detection and redirect -->
+  <script>
+    // Detect browser language if on root
+    if (window.location.pathname === '/' || window.location.pathname === '/index.html') {
+      const userLang = navigator.language || navigator.userLanguage;
+      if (userLang.startsWith('fr')) {
+        window.location.href = '/fr/';
+      } else {
+        window.location.href = '/en/';
+      }
+    }
+  </script>
+</head>
+<body>
+  
+
+
+<header class="site-header">
+  <div class="container">
+    <div class="header-content">
+      <!-- Logo / Site Branding - TEXT ONLY (no image) -->
+      <div class="site-branding">
+        <a href="/fr/" class="site-logo-link">
+          <!-- Text for desktop -->
+          <div class="logo-with-text show-for-medium">
+            <span class="site-logo-styled">
+              <span class="logo-word logo-word-bullshit">Bullshit</span><span class="logo-word logo-word-buster">Buster</span>
+            </span>
+          </div>
+          
+          <!-- Text for mobile -->
+          <div class="logo-with-text show-for-small-only">
+            <span class="site-logo-styled-mobile">
+              <span class="logo-word-mobile logo-word-bs">BS</span><span class="logo-word-mobile logo-word-b">B</span>
+            </span>
+          </div>
+        </a>
+      </div>
+      
+      <!-- Desktop Navigation -->
+      <nav class="main-nav show-for-medium">
+        <ul class="nav-menu">
+          <li class="">
+            <a href="/fr/">Accueil</a>
+          </li>
+          <li class="">
+            <a href="/videos/fr/">Vidéos</a>
+          </li>
+          <li class="has-submenu active">
+            <span class="submenu-label">Bibliothèque</span>
+            <ul class="submenu">
+              <li class=""><a href="/library/books/fr/">Livres</a></li>
+              <li class=""><a href="/library/authors/fr/">Auteurs</a></li>
+              <li class=""><a href="/library/quotes/fr/">Citations</a></li>
+              <li class="active"><a href="/library/concepts/fr/">Concepts</a></li>
+              <li class=""><a href="/library/sophisms/fr/">Sophismes</a></li>
+            </ul>
+          </li>
+          <li class="">
+            <a href="/tags/fr/">Étiquettes</a>
+          </li>
+          <li class="">
+            <a href="/about/fr/">À Propos</a>
+          </li>
+        </ul>
+      </nav>
+      
+      <!-- Language Switcher - Desktop -->
+      <div class="language-switcher show-for-medium">
+        
+        
+          
+          
+          
+          
+          
+          
+
+          
+            
+            
+              <a href="/library/concepts/survivorship-bias/en/" class="lang-link" title="English">
+                <span class="material-symbols-outlined">flag</span> EN
+              </a>
+            
+          
+            
+            
+          
+        
+      </div>
+      
+      <!-- Mobile Controls: Language + Menu Toggle -->
+      <div class="mobile-controls show-for-small-only">
+        <!-- Language Switcher - Mobile -->
+        <div class="language-switcher-mobile">
+          
+            
+            
+            
+            
+            
+            
+
+            
+              
+              
+                <a href="/library/concepts/survivorship-bias/en/" class="lang-link-mobile" title="English">
+                  <span class="material-symbols-outlined">flag</span> EN
+                </a>
+              
+            
+              
+              
+            
+          
+        </div>
+        
+        <!-- Mobile Menu Toggle with "Navigation" label -->
+        <button class="mobile-menu-toggle" aria-label="Toggle menu" id="mobileMenuToggle">
+          <span class="nav-label">Navigation</span>
+          <span class="material-symbols-outlined">menu</span>
+        </button>
+      </div>
+    </div>
+    
+    <!-- Mobile Navigation Menu - FULLY COLLAPSED by default -->
+    <div class="mobile-nav show-for-small-only" id="mobileNav">
+      <ul class="mobile-nav-menu">
+        <li class="">
+          <a href="/fr/">Accueil</a>
+        </li>
+        <li class="">
+          <a href="/videos/fr/">Vidéos</a>
+        </li>
+        <li class="has-submenu active">
+          <button class="submenu-toggle" aria-label="Toggle library submenu">
+            Bibliothèque
+            <span class="material-symbols-outlined">expand_more</span>
+          </button>
+          <ul class="mobile-submenu">
+            <li class=""><a href="/library/books/fr/">Livres</a></li>
+            <li class=""><a href="/library/authors/fr/">Auteurs</a></li>
+            <li class=""><a href="/library/quotes/fr/">Citations</a></li>
+            <li class="active"><a href="/library/concepts/fr/">Concepts</a></li>
+            <li class=""><a href="/library/sophisms/fr/">Sophismes</a></li>
+          </ul>
+        </li>
+        <li class="">
+          <a href="/tags/fr/">Étiquettes</a>
+        </li>
+        <li class="">
+          <a href="/about/fr/">À Propos</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<script>
+  // Mobile menu toggle
+  document.addEventListener('DOMContentLoaded', function() {
+    const mobileMenuToggle = document.getElementById('mobileMenuToggle');
+    const mobileNav = document.getElementById('mobileNav');
+    
+    if (mobileMenuToggle && mobileNav) {
+      mobileMenuToggle.addEventListener('click', function() {
+        mobileNav.classList.toggle('active');
+        const icon = this.querySelector('.material-symbols-outlined');
+        icon.textContent = mobileNav.classList.contains('active') ? 'close' : 'menu';
+      });
+    }
+    
+    // Mobile submenu toggles
+    const submenuToggles = document.querySelectorAll('.mobile-nav .submenu-toggle');
+    submenuToggles.forEach(function(toggle) {
+      toggle.addEventListener('click', function() {
+        const submenu = this.nextElementSibling;
+        const icon = this.querySelector('.material-symbols-outlined');
+        submenu.classList.toggle('active');
+        icon.textContent = submenu.classList.contains('active') ? 'expand_less' : 'expand_more';
+      });
+    });
+  });
+</script>
+
+  
+  <main class="main-content">
+    
+
+
+<div class="concept-page">
+  <div class="container">
+    <article class="concept">
+      <header class="concept-header">
+        <div class="breadcrumbs">
+          <a href="/fr/">Home</a>
+          <span class="separator">/</span>
+          <a href="/library/fr/">Bibliothèque</a>
+          <span class="separator">/</span>
+          <a href="/library/concepts/fr/">Concepts</a>
+          <span class="separator">/</span>
+          <span class="current">Biais du Survivant</span>
+        </div>
+        
+        <h1 class="concept-title">
+          
+            <i class='flight'></i>
+          
+          Biais du Survivant
+        </h1>
+        
+        
+          <p class="concept-aliases">
+            Aussi connu comme:
+            
+              Biais de Survie, 
+            
+              Erreur du Survivant
+            
+          </p>
+        
+        
+        
+          <p class="concept-attribution">
+            Formulé par
+            
+            
+            
+            
+              
+              
+              
+              
+                <a href="/library/authors/wald-abraham/fr/" class="author-link">
+                  <strong>Abraham Wald</strong>
+                </a>
+              
+            
+             (1943)
+            
+          </p>
+        
+      </header>
+      
+      <div class="content-with-qr">
+        <div class="main-content">
+        
+        <div class="concept-definition" style="border-left: 4px solid #2C3E50;">
+          <h2>Définition</h2>
+          <p>Une erreur logique qui se produit lorsque des conclusions sont tirées d'un ensemble de données composé uniquement des 'survivants' d'un processus de sélection, en ignorant les cas qui n'ont pas survécu et qui sont donc invisibles pour l'analyse. Comme les échecs ne laissent aucune trace, l'échantillon de survivants paraît anormalement performant ou résilient, ce qui conduit à des conclusions systématiquement faussées sur ce qui cause réellement le succès ou la survie. Ce biais se retrouve partout : en entreprise ('toutes les start-ups qui réussissent ont fait X'), en finance (les données de performance de fonds d'investissement qui excluent les fonds ayant fermé), ou dans les conseils de vie courants ('suivez votre passion', tirés uniquement de personnes célèbres ayant réussi de cette façon).</p>
+        </div>
+        
+        
+        
+          <div class="concept-images">
+            
+              <figure class="concept-figure">
+                <img src="/assets/images/concepts/survivorship-bias.svg" alt="Diagramme d'un bombardier de la Seconde Guerre mondiale couvert de points rouges marquant les endroits où les avions revenus de mission avaient été touchés par des tirs ennemis">
+                
+                  <figcaption><p>Illustration d’un schéma de dégâts hypothétique sur des bombardiers revenus de mission durant la Seconde Guerre mondiale, librement inspirée des données analysées par <a href="/library/authors/wald-abraham/fr/">Abraham Wald</a>. Renforcer les zones couvertes de points rouges, là où les survivants avaient été touchés, aurait été une erreur, car les avions touchés à ces endroits rentraient le plus souvent à bon port. Nouvelle version par <a href="https://commons.wikimedia.org/wiki/User:McGeddon">McGeddon</a>, vectorisation par <a href="https://commons.wikimedia.org/wiki/User:SlvrKy">Martin Grandjean</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.</p>
+</figcaption>
+                
+              </figure>
+            
+          </div>
+        
+        
+        
+          <div class="concept-content">
+            <h3>Histoire</h3>
+<p>Pendant la Seconde Guerre mondiale, le Statistical Research Group (SRG) de l'armée américaine étudia les bombardiers alliés revenant de mission au-dessus de l'Europe afin de déterminer où renforcer le blindage. L'idée évidente était de renforcer les zones subissant le plus de dégâts : moteurs, ailes et queue étaient criblés d'impacts, tandis que le cockpit et le fuselage central étaient relativement épargnés.</p>
+<p>Le mathématicien <a href="/library/authors/wald-abraham/fr/">Abraham Wald</a>, membre du SRG, inversa ce raisonnement. Les données de dégâts ne provenaient que des avions ayant survécu et étant rentrés. Un bombardier touché au moteur ou au circuit de carburant avait beaucoup moins de chances de revenir : ces avions s'écrasaient et étaient absents de l'échantillon. Les zones intactes sur les avions survivants n'étaient pas des zones sûres ; elles étaient fatales. Wald recommanda de blinder les endroits où les avions revenus ne montraient aucun dégât, car un impact à cet endroit était précisément le type dont un avion survivait rarement pour en témoigner.</p>
+<p>Le mémorandum de Wald de 1943, <em>A Method of Estimating Plane Vulnerability Based on Damage of Survivors</em>, ne fut publié que des décennies plus tard, mais devint l'une des études de cas fondatrices de la statistique appliquée. Le terme "biais du survivant" lui-même n'entra dans l'usage courant que bien plus tard, popularisé par les écrits sur l'entreprise et la finance à partir des années 1970, mais l'intuition sous-jacente, qu'un échantillon privé de ses échecs ne peut rien dire sur l'échec, reste celle de Wald.</p>
+
+          </div>
+        
+        
+        
+        
+        
+
+        
+        
+          <div class="concept-links">
+            <h3>Ressources externes</h3>
+            <div class="external-links">
+              
+                <a href="https://grokipedia.com/page/Survivorship_bias" target="_blank" rel="noopener">
+                  <i class='bx bx-link-external'></i> Grokipedia
+                </a>
+              
+              
+                <a href="https://fr.wikipedia.org/wiki/Biais_du_survivant" target="_blank" rel="noopener">
+                  <i class='bx bxl-wikipedia'></i> Wikipedia
+                </a>
+              
+            </div>
+          </div>
+        
+        
+        
+          <div class="concept-tags">
+            <h3>Sujets</h3>
+            <div class="tags">
+              
+                
+                
+                  <a href="/refs/tags/cognitive-bias/fr/"
+                     class="tag"
+                     style="background-color: #e74c3c; color: #FFFFFF;">
+                    <span class="material-symbols-outlined">psychology_alt</span>
+                    Biais Cognitif
+                  </a>
+                
+              
+                
+                
+                  <a href="/refs/tags/critical-thinking/fr/"
+                     class="tag"
+                     style="background-color: #4169E1; color: #FFFFFF;">
+                    <span class="material-symbols-outlined">psychology_alt</span>
+                    Pensée critique
+                  </a>
+                
+              
+                
+                
+                  <a href="/refs/tags/psychology/fr/"
+                     class="tag"
+                     style="background-color: #9b59b6; color: #FFFFFF;">
+                    <span class="material-symbols-outlined">psychology</span>
+                    Psychologie
+                  </a>
+                
+              
+                
+                
+                  <a href="/refs/tags/decision-making/fr/"
+                     class="tag"
+                     style="background-color: #16a085; color: #FFFFFF;">
+                    <span class="material-symbols-outlined">psychology</span>
+                    Prise de Décision
+                  </a>
+                
+              
+                
+                
+                  <a href="/refs/tags/seen-and-unseen/fr/"
+                     class="tag"
+                     style="background-color: #9370DB; color: #FFFFFF;">
+                    <span class="material-symbols-outlined">visibility</span>
+                    Ce qu'on voit et ce qu'on ne voit pas
+                  </a>
+                
+              
+            </div>
+          </div>
+        
+        </div>
+        
+        <aside class="sidebar">
+          
+
+
+<!-- QR Code Debug:
+  page.qrcode_path: survivorship-bias-fr.svg
+  page.slug: survivorship-bias
+  page.lang: fr
+-->
+
+
+  <div class="qrcode-widget">
+    <div class="qrcode-header">
+      <span class="material-symbols-outlined">qr_code_2</span>
+      <h4>
+        
+          Lien QR Code
+        
+      </h4>
+    </div>
+    <div class="qrcode-image-wrapper">
+      <img src="/assets/qrcodes/survivorship-bias-fr.svg" 
+           alt="QR Code" 
+           class="qrcode-image" />
+    </div>
+    <p class="qrcode-hint">
+      
+        Scannez ce code QR pour accéder à cette page sur votre appareil mobile
+      
+    </p>
+  </div>
+
+
+        </aside>
+      </div>
+    </article>
+  </div>
+</div>
+
+  </main>
+  
+  
+
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-content">
+      <div class="footer-section">
+        <h3>
+          
+            Bullshit Buster
+          
+        </h3>
+        <p>
+          
+            Réponses rapides et factuelles aux mensonges et sophismes économiques les plus courants
+          
+        </p>
+      </div>
+      
+      <div class="footer-section">
+        <h4>Contenu</h4>
+        <ul>
+          <li><a href="/library/fr/">Bibliothèque</a></li>
+          <li><a href="/videos/fr/">Vidéos</a></li>
+          <li><a href="/refs/tags/fr/">Étiquettes</a></li>
+        </ul>
+      </div>
+      
+      <div class="footer-section">
+        <h4>À Propos</h4>
+        <ul>
+          <li><a href="/about/fr/">À Propos</a></li>
+          <li><a href="/fr/">Accueil</a></li>
+        </ul>
+      </div>
+      
+      <div class="footer-section">
+        <h4>Connect</h4>
+        <div class="social-links">
+          <a href="https://x.com/bsbuster42" target="_blank" rel="noopener" title="X" aria-label="X">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M18.9 2H22l-6.7 7.7L23 22h-6.4l-5-6.1L6.1 22H3l7.1-8.1L1 2h6.6l4.5 5.5L18.9 2z"/>
+            </svg>
+          </a>
+          <a href="https://www.youtube.com/@Austro_Bot" target="_blank" rel="noopener" title="YouTube">
+            <i class='bx bxl-youtube'></i>
+          </a>
+          <a href="https://www.tiktok.com/@austro_bot/" target="_blank" rel="noopener" title="TikTok">
+            <i class='bx bxl-tiktok'></i>
+          </a>
+          <a href="https://www.instagram.com/austro_bot/" target="_blank" rel="noopener" title="Instagram">
+            <i class='bx bxl-instagram'></i>
+          </a>
+          <a href="https://github.com/BullshitBuster42/" target="_blank" rel="noopener" title="GitHub">
+            <i class='bx bxl-github'></i>
+          </a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="footer-bottom">
+      <p>
+        Contenu sous Licence <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a> | 
+        <a href="/about/fr/">À Propos</a>
+      </p>
+    </div>
+  </div>
+</footer>
+
+  
+  <script src="/assets/js/main.js"></script>
+  
+  <script defer src="https://analytics.bullshitbuster.eu/script.js" data-website-id="392c8156-3a6d-44a8-b1b9-2280fbd2d54c"></script>
+  
+</body>
+</html>
+

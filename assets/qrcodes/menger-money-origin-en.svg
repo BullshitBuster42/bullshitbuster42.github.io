@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" 
+     width="310" 
+     height="360" 
+     viewBox="0 0 310 360"
+     class="qr"
+     style="color-scheme: light; forced-color-adjust: none;">
+  
+  <!-- Background -->
+  <rect width="310" height="360" fill="#ffffff"/>
+  
+  <!-- QR Code (centered with padding) -->
+  <g transform="translate(20, 20)">
+    <path d="M0 0h7v7h-7zM9 0h2v1h-1v3h-1v-2h-1v-1h1zM15 0h1v1h-1zM24 0h3v1h-3zM28 0h6v3h-2v-1h1v-1h-4v1h-1zM36 0h1v1h-1zM38 0h7v7h-7zM1 1v5h5v-5zM12 1h2v1h-2zM16 1h2v1h-1v1h1v1h1v-1h1v-1h-1v-1h3v3h3v-1h1v3h-1v1h1v-1h1v-3h2v1h-1v1h1v-1h2v-1h1v1h-1v1h-1v1h-1v2h1v-2h1v2h-1v1h1v1h1v-6h3v-3h1v2h1v2h-4v3h2v1h-2v1h1v1h-1v2h1v4h-2v-2h-1v1h-1v-1h-1v1h-1v-2h-1v-1h-2v-2h1v1h2v-1h1v1h1v-2h-2v-4h-1v3h-1v-1h-1v1h1v1h-2v-1h-4v-1h-1v-1h-1v-1h-1v1h-1v-1h-1v-1h1zM23 1h1v2h-1zM39 1v5h5v-5zM2 2h3v3h-3zM11 2h1v1h-1zM40 2h3v3h-3zM10 4h1v3h-1zM13 4h1v1h-1zM19 4v1h-1v1h1v-1h1v-1zM8 5h1v2h1v1h-2zM21 5v3h3v-3zM12 6h1v1h-1zM14 6h1v3h1v1h-1v1h-1v1h1v-1h1v1h-1v1h-3v-1h1v-2h-1v-1h-2v-1h1v-1h1v1h1v-1h1zM19 6v1h1v-1zM22 6h1v1h-1zM34 6h1v1h-1zM36 6h1v1h-1zM17 7h1v2h-1zM4 8h4v2h-1v-1h-1v1h-1v1h1v-1h1v1h-1v1h1v1h-3v-1h-3v-2h-1v-1h1v1h1v-1h2zM13 8v1h1v-1zM38 8h2v1h3v-1h1v1h-1v1h-4v1h-3v-1h-1v-1h2v1h1zM9 9h1v1h-1zM19 9h1v1h4v2h-2v-1h-1v1h1v2h-1v-1h-1v1h-1v-2h1v-1h-2v-1h1zM8 10h1v2h2v1h-3zM10 10h2v1h-2zM43 10h1v2h-1zM17 11h1v3h-1zM31 11v1h-1v1h1v1h1v-3zM34 11h1v1h-1zM39 11h1v3h-1v1h-3v2h1v-1h1v1h-1v1h1v-1h1v-1h1v1h-1v1h1v-1h1v-1h1v1h-1v1h1v1h-2v1h1v1h1v2h-1v2h-1v1h1v1h1v-2h1v-1h2v1h-1v2h-2v1h-1v1h-1v1h1v1h1v1h-1v1h-1v-2h-1v-1h-1v-3h-1v-1h-2v-1h1v-1h-1v-3h1v-1h-2v-1h-1v1h1v2h-2v-3h-1v1h-1v-1h-1v-1h-1v-1h1v1h1v-1h2v1h2v1h2v-1h-1v-6h1v1h1v-1h2zM0 12h1v2h-1zM41 12h1v1h-1zM44 12h1v1h-1zM2 13h2v1h-2zM11 13h1v1h-1zM23 13h2v1h-1v3h3v1h1v1h-2v-1h-3v-3h-1v-1h1zM28 13v1h1v-1zM37 13v1h1v-1zM43 13h1v2h1v1h-2zM5 14h3v1h1v2h-3v1h1v1h-1v1h1v-1h2v2h4v-1h1v-1h-1v-1h-1v2h-2v-1h1v-1h-2v-1h2v-1h1v-1h1v-1h1v1h1v-1h2v3h1v-3h1v1h2v1h1v1h-1v1h-1v-1h-1v1h-1v1h-2v1h1v2h1v-2h1v-1h2v-1h2v2h1v-1h1v1h1v2h1v-1h2v-1h1v1h-1v1h-2v4h1v-2h1v1h1v-2h-1v-1h1v-1h1v1h-1v1h1v-1h1v1h-1v2h-1v2h1v-1h2v-1h-1v-2h2v4h-1v1h2v1h-1v2h-1v1h1v-1h1v1h-1v2h-2v-2h-1v3h-1v-4h1v-1h1v-3h-1v1h-1v2h-1v1h-1v1h-1v-2h-2v-1h-1v-1h-1v-1h-1v1h-1v-1h-1v-1h1v-1h-1v-1h-1v-2h-1v1h-1v1h-1v1h-1v-1h-1v-1h1v-3h-1v2h-5v4h1v-1h1v-2h2v1h-1v1h1v-1h1v1h-1v1h-2v2h-1v3h-1v-2h-1v-1h-1v-1h-4v-1h-1v-1h1v1h2v-1h-1v-1h-3v2h1v1h1v1h1v1h-1v1h-1v-1h-1v-2h-1v-7h1v1h1v-1h1v-1h1v1h1v-2h-1v-2h-1v2h-2v-1h1v-2h3zM10 14h1v1h-1zM32 14v1h1v-1zM41 14h1v1h-1zM0 15h1v1h-1zM6 15v1h1v-1zM15 15v1h-3v1h1v1h1v-1h1v-1h1v-1zM25 15h2v1h-2zM43 17h1v2h1v2h-1v2h-1zM0 18h1v1h-1zM21 19v1h1v-1zM36 19v1h3v-1zM19 20v2h1v-2zM2 21v2h1v-1h1v-1zM5 21v3h3v-3zM21 21v3h3v-3zM37 21v3h3v-3zM6 22h1v1h-1zM22 22h1v1h-1zM38 22h1v1h-1zM25 24v1h-1v1h1v3h2v-1h-1v-4zM6 25v1h1v1h1v-2zM17 25h1v2h-1v3h2v-1h-1v-2h2v5h1v1h-2v-2h-1v1h-1v1h-3v-1h-1v1h-1v-1h-1v-4h2v2h-1v1h1v-1h1v2h1v-2h1v-1h-2v-2h-1v-1h1v1h2v-1h1zM22 25v1h1v-1zM38 25v2h1v-2zM28 26v1h-1v1h1v-1h1v-1zM8 27v1h1v-1zM36 27h1v1h-1zM39 27v1h1v-1zM44 27h1v1h-1zM5 28h2v1h-1v1h1v1h-2v-1h-1v-1h1zM28 28v1h1v-1zM21 29h1v1h-1zM36 29h1v1h-1zM43 29h1v2h-1zM0 30h1v1h1v1h1v1h-2v-1h-1zM23 30h1v1h1v1h-1v1h-1v-1h-1v-1h1zM37 30h1v1h-1zM4 31h1v1h-1zM7 31h1v1h2v1h-1v1h1v-1h1v1h-1v1h-1v3h1v1h1v2h-1v-1h-1v1h-1v-6h-2v-1h2v-1h-2v-1h1zM36 31h1v1h1v-1h1v2h-1v2h-1v1h1v-1h1v1h3v1h-1v3h1v1h-1v2h-1v-2h-1v2h-2v-2h-1v-1h-1v1h-1v-1h-1v1h-1v-1h-1v1h-2v2h-1v2h-2v-1h-1v1h-4v-1h-3v-1h-1v1h-1v-2h-1v-1h-1v-1h-2v-1h1v-1h1v-2h-3v-1h2v-2h1v2h1v-1h1v1h2v1h-3v3h-1v1h2v1h1v-1h2v2h-1v1h1v-1h1v1h1v-1h1v-1h-2v-3h-1v1h-1v-1h-1v-1h1v-1h1v-2h-2v-1h2v1h1v2h-1v1h1v-1h5v-2h-1v-1h1v-1h2v3h1v-1h1v1h-1v2h-1v1h-1v-2h-1v5h-2v2h-1v1h1v-1h2v-1h2v-2h-1v-1h2v-1h1v-2h1v2h-1v1h6v-2h-1v1h-1v-1h-1v1h-1v-2h1v-1h1v1h2v1h1v-3h-1v-1h1zM44 32h1v1h-1zM36 33v1h1v-1zM39 33h1v1h-1zM41 33h3v1h-2v1h-2v-1h1zM4 34h1v3h-2v-1h-2v-1h3zM22 34h2v1h-2zM43 35h1v1h-1zM0 36h1v1h-1zM6 36h1v1h-1zM44 36h1v1h-1zM11 37h1v1h-1zM21 37v3h3v-3zM37 37v3h3v-3zM0 38h7v7h-7zM22 38h1v1h-1zM38 38h1v1h-1zM43 38h1v1h-1zM1 39v5h5v-5zM2 40h3v3h-3zM9 41h1v1h2v-1h1v2h-2v1h-2zM31 41h1v1h-1zM35 41h1v1h-1zM43 41h2v1h-1v1h-1zM33 42h1v1h-1zM13 43h1v1h1v1h-2zM26 43v1h1v-1zM32 43h1v2h-3v-1h2zM11 44h1v1h-1zM34 44h3v1h-3zM39 44h2v1h-2zM44 44h1v1h-1z" fill="##000000" transform="translate(0,0) scale(6)"/>
+  </g>
+  
+  <!-- Label Section -->
+  <g transform="translate(0, 300)">
+    <!-- Icon (emoji as text) -->
+    <text x="95" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="20" 
+          fill="#333333">💬</text>
+    
+    <!-- Item Title -->
+    <text x="120" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="12" 
+          font-weight="bold"
+          fill="#333333" 
+          text-anchor="start">Menger Money Origin</text>
+    
+    <!-- Flag -->
+    <text x="215" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="16" 
+          fill="#333333">🇬🇧</text>
+  </g>
+</svg>

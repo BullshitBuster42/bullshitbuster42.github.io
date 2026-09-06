@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" 
+     width="334" 
+     height="384" 
+     viewBox="0 0 334 384"
+     class="qr"
+     style="color-scheme: light; forced-color-adjust: none;">
+  
+  <!-- Background -->
+  <rect width="334" height="384" fill="#ffffff"/>
+  
+  <!-- QR Code (centered with padding) -->
+  <g transform="translate(20, 20)">
+    <path d="M0 0h7v7h-7zM18 0h1v1h-1zM20 0h1v1h-1zM23 0h2v1h1v-1h1v1h1v2h1v1h-2v-2h-3v-1h-1zM29 0h1v1h-1zM32 0h1v1h2v-1h3v1h2v-1h1v3h-1v1h-1v-2h-1v3h-1v-1h-2v-1h-1v2h-1v-3h-1zM42 0h7v7h-7zM1 1v5h5v-5zM9 1h1v1h-1zM12 1h3v1h-1v1h-1v-1h-1zM19 1h1v1h-1zM21 1h1v2h-2v-1h1zM30 1h1v2h1v2h-1v2h-1v-1h-1v2h2v-1h1v-2h1v3h-2v2h-1v1h-2v3h-1v1h1v-1h1v-2h1v-1h1v-1h1v1h-1v1h-1v1h2v1h1v2h-2v-1h-1v-1h-1v1h-1v1h-2v-1h-1v1h1v1h-2v1h-2v-1h1v-3h-1v1h-1v-1h-1v1h1v4h-2v1h-1v-4h-1v-1h-1v-2h1v2h1v1h1v-2h-1v-1h1v-1h-5v1h1v1h-3v-1h1v-1h-1v-1h-1v-1h-1v-1h-1v1h1v1h-2v1h1v2h1v1h-2v1h1v3h-3v-1h-2v-1h-1v-1h-1v-1h-2v-2h1v-3h1v-2h2v1h-1v1h1v-1h2v-1h2v-2h1v1h1v-1h1v1h-1v1h1v-1h1v-2h-2v-1h-1v-1h1v1h1v-2h1v2h2v-1h1v-1h4v1h1v1h-1v1h-1v-2h-3v1h-1v1h-1v2h1v-1h1v-2h1v2h-1v1h-1v1h-1v1h-1v-1h-1v1h1v2h1v-2h2v-2h1v-1h1v-1h1v1h-1v1h1v-1h1v-1h1v-1h5v-1h1v1h1v1h2v-1h1zM35 1v2h1v-1h1v-1zM43 1v5h5v-5zM2 2h3v3h-3zM44 2h3v3h-3zM8 4h1v1h-1zM21 5v2h-1v-1h-1v1h-1v1h-1v1h-2v1h1v1h1v-1h1v-1h1v1h-1v1h1v-1h1v-1h1v-1h1v-3zM23 5v3h3v-3zM35 5h1v1h-1zM38 5h1v2h1v-1h1v2h-3zM24 6h1v1h-1zM27 6v1h1v-1zM34 6h1v2h-1zM36 6h1v1h-1zM33 8h1v2h-1zM41 8h2v1h1v-1h1v1h-1v2h-1v1h-2v1h-2v2h2v-1h2v-2h1v-1h1v-1h1v1h1v2h1v-2h1v3h-1v1h1v4h-1v1h-1v-2h1v-1h-1v-1h-1v-1h1v-1h-3v1h1v3h-2v-2h-1v-1h-1v1h-1v1h-1v-1h-2v-3h-1v2h-1v-2h-1v-3h1v-1h3v2h-1v-1h-1v1h1v1h2v-1h2v-1h1v-1h-1zM6 9v1h1v-1zM22 9v1h-1v1h1v-1h2v-1zM25 9v1h-1v3h-1v-2h-1v1h-1v1h2v1h1v-1h1v-3h1v-1zM4 10v1h-1v2h-2v1h2v-1h1v-1h1v-2zM26 10v1h1v-1zM6 11v1h-1v1h1v-1h1v-1zM10 12h1v1h-1zM44 12v1h2v-1zM6 13v1h1v-1zM3 14v1h2v-1zM6 15v1h1v-1zM10 15h5v1h-1v1h-1v-1h-1v1h-2zM29 15h1v1h-1zM34 15h1v2h-1zM4 16v1h1v-1zM15 16h2v3h-3v1h-2v-1h-1v-1h1v1h1v-1h1v-1h1zM19 16v1h1v-1zM30 16h1v1h-1zM0 17h2v1h-2zM6 17v1h2v-1zM15 17v1h1v-1zM28 17h2v1h2v-1h2v2h1v1h1v-3h1v2h1v1h-2v2h-1v-1h-1v-1h-1v-1h-4v-1h-1zM38 17h1v1h-1zM40 17h1v1h-1zM24 18h1v1h1v-1h2v1h-1v1h-1v2h2v-1h2v1h1v-2h1v1h1v2h-1v-1h-1v3h2v1h-1v1h-5v2h2v-1h1v1h-1v1h-1v1h-1v1h-1v1h-1v-1h-1v4h-1v-1h-2v-2h-1v-2h2v-1h1v-1h-1v-2h-1v-1h-2v-2h-2v1h1v2h2v3h-1v-2h-2v-2h-2v1h-1v2h1v1h1v1h-3v-3h-2v-1h-1v-1h-1v1h1v1h1v2h-2v1h-3v-1h-1v-1h-2v-1h-1v-1h-1v1h-1v-2h1v-1h-1v-1h1v-1h2v1h1v-2h-2v-1h2v-1h-4v-1h5v1h3v1h-4v1h5v-1h1v-1h-1v-1h1v1h2v1h-2v1h-1v1h1v-1h1v4h1v-4h2v-2h2v1h-1v2h-2v1h3v-2h1v1h1v-1h1v-1h1v-1h1v-1h2v1h1zM41 18h2v1h-1v1h-1zM45 18h1v3h1v1h-1v1h1v1h1v-1h1v2h-1v1h-1v-1h-1v-1h-1v3h-1v1h-1v-1h-1v1h-2v-2h-1v1h-1v-1h-1v1h-1v1h-1v-4h-2v-1h1v-1h1v2h1v-2h1v2h1v1h2v-2h-1v-1h2v-1h2v1h2zM28 19h1v1h-1zM43 19h1v1h-1zM21 20v3h1v-1h1v-1h-1v-1zM24 20v1h1v-1zM38 20h1v1h-1zM48 20h1v1h-1zM5 23v3h3v-3zM23 23v3h3v-3zM27 23v3h1v-1h1v-2zM41 23v3h3v-3zM6 24h1v1h-1zM9 24v1h1v-1zM24 24h1v1h-1zM42 24h1v1h-1zM13 25v1h1v-1zM21 25v1h1v-1zM3 26v2h4v1h-1v1h2v-1h1v-1h-1v-1h-4v-1zM15 27h1v1h-1zM23 27v2h2v-1h1v-1zM32 27h1v1h1v1h1v2h1v-2h1v-1h2v1h-2v1h2v-1h3v1h1v1h1v-3h3v-1h1v1h-1v1h-1v1h-1v1h-1v1h1v-1h1v-1h2v-2h1v4h-2v-1h-1v1h-1v1h-1v1h1v-1h1v1h1v1h2v1h-1v1h1v1h-1v1h-2v2h1v1h-1v3h-1v2h2v1h2v1h-4v-1h-2v-2h-1v1h-3v-2h-1v-1h-2v1h2v1h-3v-1h-1v-1h-1v-1h2v-1h-1v-1h-2v1h-1v-1h-1v-1h-1v-1h-1v-2h-1v1h-1v1h-1v-1h-1v1h1v1h2v-1h1v2h-1v1h2v-1h1v2h1v1h1v1h1v1h2v1h-1v1h-2v1h-4v-1h-1v-1h-1v1h-1v-1h-1v-1h-1v-1h-1v1h-1v1h-1v1h-1v-1h-1v1h-1v-2h-1v-1h-1v-2h-1v2h1v1h-2v-1h-1v1h-1v-2h2v-2h-1v-1h-1v-1h-1v1h-1v2h-1v-2h-2v-1h1v-1h-2v-1h-3v-5h1v-1h-2v-1h-1v-1h1v-2h1v1h1v1h-1v1h1v1h1v1h-1v1h1v-1h1v-1h4v1h3v-2h-1v-1h1v1h1v1h1v1h-1v1h1v-1h1v-1h1v-1h2v-1h-1v-1h-1v-1h1v1h1v1h1v3h-2v-1h-1v1h-1v1h3v1h-1v1h-1v1h-1v2h1v-2h1v-1h1v-1h3v1h2v1h2v-1h1v-1h-1v-1h2v-2h1v1h1v-1h2v2h-3v1h1v1h-1v1h1v1h1v-1h1v-1h-1v-1h1v-1h1v-3h-1v-2h1zM4 30h1v1h-1zM23 30v1h3v-1zM29 30h1v1h-1zM33 30v1h1v-1zM40 30v2h-1v1h-1v-1h-1v-1h-1v1h1v1h-4v1h-1v1h1v-1h2v1h-1v1h-2v1h2v-1h2v-2h1v-1h1v1h-1v2h1v-1h1v-2h1v1h1v1h-1v1h1v-1h2v-3h-1v-1h-1v-1zM0 32h1v3h-1zM21 32v1h1v-1zM5 33v1h-1v2h-1v1h2v-2h1v-1h1v1h-1v1h1v-1h3v-1h-2v-1zM19 33h1v1h-1zM22 33v1h1v-1zM11 34v1h-1v3h1v-3h1v-1zM12 35v1h1v1h-1v1h-1v1h1v2h2v-1h-1v-1h1v-4zM43 35v1h-1v1h-2v1h-1v1h-3v1h-1v-2h1v-1h-2v1h-4v1h4v2h2v1h1v-2h2v1h-1v3h1v1h1v-3h-1v-1h1v-1h4v-1h-1v-2h1v-1h1v-1zM7 36v1h-1v1h1v1h1v-1h1v-2zM18 36v2h2v1h-1v1h-1v-1h-1v1h1v1h1v-1h2v-3h-1v-1zM0 37h1v1h-1zM45 37v1h-1v1h1v-1h2v-1zM1 38h1v1h2v1h-1v1h-3v-1h1zM22 38v2h-1v2h1v-2h1v-2zM41 38h1v1h-1zM8 39v1h1v-1zM48 39h1v5h-1v-1h-1v-1h1zM10 41h1v2h-1zM15 41v1h1v1h1v-2zM23 41v3h3v-3zM41 41v3h3v-3zM0 42h7v7h-7zM18 42v1h-1v1h-1v1h2v1h1v-3h1v-1zM24 42h1v1h-1zM42 42h1v1h-1zM1 43v5h5v-5zM20 43v1h1v-1zM27 43v2h-1v1h1v-1h1v1h-1v1h1v1h1v-1h3v-1h-2v-1h-1v-2zM2 44h3v3h-3zM9 44h1v3h-2v-2h1zM40 45v1h1v-1zM43 45v1h1v-1zM48 45h1v1h-1zM12 46h1v1h3v2h-3v-1h-1zM21 47h2v2h-2zM36 47h2v1h-1v1h-1zM10 48h2v1h-2zM18 48h1v1h-1zM24 48h1v1h-1zM34 48h1v1h-1zM38 48h1v1h-1zM40 48h1v1h-1z" fill="##000000" transform="translate(0,0) scale(6)"/>
+  </g>
+  
+  <!-- Label Section -->
+  <g transform="translate(0, 324)">
+    <!-- Icon (emoji as text) -->
+    <text x="107" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="20" 
+          fill="#333333">💬</text>
+    
+    <!-- Item Title -->
+    <text x="132" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="12" 
+          font-weight="bold"
+          fill="#333333" 
+          text-anchor="start">Bohm Bawerk Present Goods</text>
+    
+    <!-- Flag -->
+    <text x="227" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="16" 
+          fill="#333333">🇬🇧</text>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" 
+     width="286" 
+     height="336" 
+     viewBox="0 0 286 336"
+     class="qr"
+     style="color-scheme: light; forced-color-adjust: none;">
+  
+  <!-- Background -->
+  <rect width="286" height="336" fill="#ffffff"/>
+  
+  <!-- QR Code (centered with padding) -->
+  <g transform="translate(20, 20)">
+    <path d="M0 0h7v7h-7zM9 0h2v1h2v-1h1v1h-1v1h-5v-1h1zM17 0h2v1h1v-1h4v1h1v1h1v1h-2v1h1v1h-2v-1h-1v2h-1v-2h-1v-1h1v-1h-3v-1h-1zM27 0h2v1h-2zM30 0h1v1h2v2h-1v1h-1v-1h-2v-2h1zM34 0h7v7h-7zM1 1v5h5v-5zM15 1h1v1h-1zM21 1v1h1v-1zM35 1v5h5v-5zM2 2h3v3h-3zM14 2h1v1h-1zM27 2h1v1h1v2h1v-1h1v1h2v4h-1v-1h-1v-1h-1v-1h-1v1h-1v-2h-1v2h1v1h-2v1h-1v-2h-1v-1h1v-1h1v-2h1zM36 2h3v3h-3zM9 3h1v1h-1zM11 3h3v3h-1v1h1v-1h1v3h1v-1h2v-2h-1v-2h-1v1h-1v-2h3v2h1v-1h1v2h-1v1h1v-1h1v1h1v-1h1v1h1v1h-6v1h-1v1h-4v-1h-1v-5h-1zM8 5h1v3h-1zM10 6h1v2h-1zM16 6h1v1h-1zM25 6v1h1v-1zM31 6v1h1v-1zM29 7h1v2h-1zM4 8h4v1h-3v1h4v-2h1v2h-1v1h-1v1h1v-1h1v-1h1v-1h1v1h-1v1h-1v1h2v-2h1v1h1v2h1v-2h1v1h1v-2h2v1h-1v1h1v1h-1v1h-1v-1h-1v1h1v1h-2v-1h-2v-1h-2v1h-1v3h2v-2h-1v-1h2v4h-1v1h-1v-1h-1v1h-2v-1h-1v-1h-1v-1h1v-1h-2v-1h-1v1h1v1h-2v-2h-1v-3h-2v-1h1v-1h1v1h1v-1h1zM13 8v1h1v-1zM34 8h2v1h2v1h-1v1h-1v-1h-2v1h-1v1h-3v1h-1v-1h-1v-1h-1v2h-1v-1h-1v-1h-1v1h-1v-3h2v1h1v-1h3v1h-1v1h1v-1h2v1h1v-1h1v-1h1zM39 8h1v1h-1zM21 9h1v4h-1v-1h-1v-2h1zM40 9h1v3h-1zM3 10v2h1v1h1v-2h-1v-1zM6 11v1h1v-1zM34 11h1v1h-1zM37 11h1v1h-1zM33 12h1v1h-1zM35 12h1v1h1v2h-1v-1h-1v1h-2v-1h1v-1h1zM0 13h1v1h-1zM5 13v1h2v1h1v1h-1v1h1v-1h1v-3zM20 13h1v2h-1v1h-1v-1h-1v-1h2zM24 13h1v4h-1v1h-1v1h-1v-1h-1v1h-1v1h1v1h-2v-2h-1v2h1v1h-2v-1h-1v1h-2v1h-1v1h-1v-5h2v-2h1v-1h-1v-1h1v1h4v1h-2v1h-1v-1h-1v1h1v1h1v-1h3v-2h1v1h1v-3h1v1h1zM38 13h1v1h-1zM40 13h1v2h-2v-1h1zM1 14h1v1h-1zM27 14h1v1h-1zM29 14h2v1h-1v2h1v-1h1v-1h1v2h-2v3h-1v1h-1v-1h-1v1h1v1h1v-1h1v2h1v1h1v4h-2v2h-1v1h1v1h-1v1h-1v-2h-2v-1h-1v-3h1v-1h-1v-2h-2v-1h-1v-1h1v-1h1v-1h-1v-2h1v-1h2v-1h1v1h1zM35 15h1v2h1v-2h1v2h-1v1h-1v2h-2v1h-1v1h-1v-2h1v-1h-1v-1h1v-1h2zM0 17h1v1h1v-1h2v1h-2v2h1v-1h2v-1h2v1h-2v1h2v-1h1v3h1v2h-2v-1h-1v-1h-1v-1h-1v-1h-1v1h1v1h-2v-1h-2zM39 17h2v11h-1v-10h-1zM25 18v2h1v-1h1v-1zM28 18v1h2v-1zM33 18v1h1v-1zM37 18h2v1h-1v1h-1zM10 19h1v6h3v1h-4v1h-1v-3h1v-3h-1v-1h1zM14 19v1h1v-1zM6 21v1h1v-1zM21 21h1v2h-1zM34 21h3v2h-1v1h-1v-1h-2v-1h1zM0 22h2v1h2v2h-1v1h-1v-1h-1v2h-1zM19 22h1v2h-1zM14 23h2v1h-2zM17 23h1v1h1v1h-3v-1h1zM22 23h1v1h-1zM26 23v1h1v1h1v-2zM5 24h2v1h-2zM20 24h2v4h-2v-1h-2v-1h3v-1h-1zM30 24v1h-1v1h1v-1h1v-1zM37 24h1v1h-1zM4 25h1v1h2v-1h1v4h-3v-1h-1v1h-1v2h-1v-1h-2v-1h2v-1h1v-1h1zM15 25h1v4h1v-2h1v2h1v3h1v-1h1v-1h-1v-1h1v1h1v-1h1v-3h2v1h-1v2h-1v1h-1v1h-1v1h-1v1h-1v1h-1v-2h-1v-1h1v-1h-3v2h-1v1h-1v-2h-2v-1h-1v-3h1v2h1v-1h1v-1h1v1h-1v1h1v-1h1zM31 25v2h1v-2zM34 25h3v1h-2v1h-1zM38 25h1v1h-1zM5 27v1h2v-1zM28 27v3h1v-3zM35 27h1v2h3v-1h1v1h1v2h-1v-1h-1v1h-1v-1h-4v-1h-1v-1h1v1h1zM37 27h1v1h-1zM8 29h1v3h-2v-1h-1v-1h1v1h1zM24 29h1v1h-1zM25 30h1v2h2v1h1v1h2v-1h1v-1h1v-2h1v2h3v-1h1v1h-1v3h1v2h-2v1h-1v-1h-4v-1h-1v1h1v1h3v1h-1v1h1v-1h2v1h1v-2h1v2h-1v1h-2v-1h-1v1h-2v-1h-1v-1h-1v2h-1v-3h-1v1h-2v-1h-1v1h-1v1h1v-1h1v1h2v1h-5v-2h-1v-2h-1v1h-1v1h-1v-3h-1v-1h-1v1h-4v-1h-1v-1h-1v1h1v1h-1v1h-1v-4h-1v-1h1v-1h1v1h-1v1h1v-1h1v1h1v1h5v1h2v-2h1v-1h2v-1h2zM3 31h1v1h-1zM39 31h1v2h-1zM0 32h3v1h-3zM4 32h3v1h-3zM15 32h2v1h-2zM24 32v1h-3v1h2v1h-1v1h3v-2h-1v-1h1v-1zM8 33h1v4h-1zM25 33v1h2v-1zM33 33v3h3v-3zM38 33h1v1h-1zM40 33h1v7h-1v1h-1v-4h1v-1h-1v-1h1zM0 34h7v7h-7zM34 34h1v1h-1zM1 35v5h5v-5zM20 35v1h1v-1zM26 35v1h-1v1h1v-1h1v1h-1v1h1v-1h1v-1h1v-1zM2 36h3v3h-3zM9 37h1v4h-1zM12 37h4v2h1v-1h1v2h-2v1h-2v-1h-1v-1h2v-1h-3zM23 37v1h1v-1zM11 38h1v1h-1zM20 39h2v1h-2z" fill="##000000" transform="translate(0,0) scale(6)"/>
+  </g>
+  
+  <!-- Label Section -->
+  <g transform="translate(0, 276)">
+    <!-- Icon (emoji as text) -->
+    <text x="83" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="20" 
+          fill="#333333">🏷️</text>
+    
+    <!-- Item Title -->
+    <text x="108" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="12" 
+          font-weight="bold"
+          fill="#333333" 
+          text-anchor="start">Individual Rights</text>
+    
+    <!-- Flag -->
+    <text x="203" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="16" 
+          fill="#333333">🇬🇧</text>
+  </g>
+</svg>

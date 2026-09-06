@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Videos | Bullshit Buster</title>
+  <meta http-equiv="refresh" content="0; url=/videos/en/">
+  <script>
+    const userLang = navigator.language || navigator.userLanguage;
+    if (userLang.startsWith('fr')) {
+      window.location.href = '/videos/fr/';
+    } else {
+      window.location.href = '/videos/en/';
+    }
+  </script>
+</head>
+<body>
+  <p>Redirecting... / Redirection...</p>
+  <p>
+    <a href="/videos/en/">English</a> | 
+    <a href="/videos/fr/">Français</a>
+  </p>
+</body>
+</html>
+
