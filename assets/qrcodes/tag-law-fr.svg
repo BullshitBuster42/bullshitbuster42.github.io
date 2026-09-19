@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" 
+     width="262" 
+     height="312" 
+     viewBox="0 0 262 312"
+     class="qr"
+     style="color-scheme: light; forced-color-adjust: none;">
+  
+  <!-- Background -->
+  <rect width="262" height="312" fill="#ffffff"/>
+  
+  <!-- QR Code (centered with padding) -->
+  <g transform="translate(20, 20)">
+    <path d="M0 0h7v7h-7zM9 0h1v1h-1zM11 0h2v2h-1v-1h-1zM16 0h1v1h-1zM20 0h1v1h-1zM24 0h2v1h-2zM27 0h2v2h-1v-1h-1zM30 0h7v7h-7zM1 1v5h5v-5zM8 1h1v1h-1zM10 1h1v1h-1zM14 1h1v1h1v1h-3v-1h1zM18 1h1v2h-1v1h-1v1h-1v-2h1v-1h1zM21 1h1v1h-1zM23 1h1v1h1v1h2v-1h1v1h1v1h-1v1h-1v-1h-1v1h-1v-1h-1v1h-1v-1h-3v-1h2v-1h1zM31 1v5h5v-5zM2 2h3v3h-3zM9 2h1v1h1v-1h1v1h-1v1h2v1h2v2h1v-1h1v1h-1v1h-1v1h-1v-3h-1v1h-1v-1h-1v1h-1v-1h-1v1h1v3h-3v-1h-3v-1h4v-3h1zM32 2h3v3h-3zM19 4h1v1h1v2h-1v-1h-1zM24 5h1v4h-1zM28 5h1v2h-1zM18 6h1v1h-1zM22 6h1v1h-1zM26 6h1v1h-1zM19 7h1v1h-1zM21 7h1v1h-1zM8 8v1h1v-1zM11 8h1v2h-1zM22 8h1v1h-1zM27 8h1v1h1v1h-1v1h-1v1h-1v-1h-2v1h-2v-1h-1v-2h1v1h5zM30 8h2v1h-2zM35 8h1v1h-1zM0 9h1v1h1v-1h2v1h1v2h3v-1h1v1h1v-2h1v1h1v1h-2v2h-1v-1h-1v1h1v1h-3v1h-1v-1h-1v-2h-2v-1h-1v-1h-1zM13 9h1v2h-1zM16 9h1v1h2v-1h1v2h1v1h1v1h-2v-1h-1v-1h-1v1h-4v-1h2zM32 9h2v1h-2zM6 10h1v1h-1zM29 10h1v2h1v-1h2v1h-1v1h1v-1h1v-1h1v-1h1v1h1v2h-1v-1h-1v3h1v2h-1v5h-1v1h-1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h-2v1h-1v2h-1v-1h-1v-2h1v-1h-2v-1h-1v2h1v2h-1v-1h-1v-2h-1v2h-1v-3h-1v-1h1v-1h2v1h-1v1h1v-1h1v-1h2v-1h1v1h1zM2 11v1h2v-1zM0 12h1v2h-1zM12 12h1v2h-1zM18 12h1v1h-1zM6 13v1h1v-1zM14 13h1v1h-1zM16 13h1v2h-1zM19 13h1v1h-1zM30 13v1h1v-1zM33 13v1h-1v3h1v-1h1v-1h-1v-1h1v-1zM10 14h1v1h-1zM13 14h1v3h1v-2h1v1h1v-1h2v2h-1v1h-1v-1h-1v1h-4v-1h-1v-1h1v1h1zM26 14v1h1v-1zM28 14v2h3v-1h-2v-1zM3 15h1v1h-1zM9 15h1v3h1v1h-2v1h1v1h1v1h-1v1h-1v-2h-1v-1h-1v-1h-1v-1h-1v-1h1v-1h1v1h-1v1h1v1h1v-2h1zM0 16h3v3h-1v1h-1v-2h-1zM20 16h1v2h1v1h1v1h-1v2h-1v1h-1v-1h-1v-2h2v-1h-1zM1 17v1h1v-1zM30 18h1v3h-1v2h-1v1h-1v-1h-1v-1h-1v1h-1v2h-2v-1h-1v1h-1v1h1v-1h1v3h1v-1h1v-2h1v-1h2v3h-1v-1h-1v1h-1v2h-1v2h1v3h1v-1h1v1h1v-6h2v-1h-1v-3h2v-1h1v2h-2v2h1v-1h1v-1h1v2h2v1h2v1h-3v-1h-1v1h1v1h1v2h2v1h-6v1h1v2h-1v-1h-1v-2h-1v2h-1v2h-1v-1h-1v-1h-1v1h-1v-1h-2v-1h2v-2h-1v-2h-1v2h-1v3h-1v-2h-1v-1h-2v-2h-1v-1h1v-1h1v-1h1v1h-1v3h1v1h1v-1h1v-2h1v-2h-1v1h-1v-4h1v-1h2v-3h1v1h2v-2h1v2h1v1h1v-2h1zM3 19h1v1h-1zM11 19h2v1h-2zM17 19h1v1h-1zM33 19v1h1v-1zM36 19h1v1h-1zM6 20h1v1h-1zM13 20h1v1h-1zM15 20h1v1h2v1h-2v1h-2v1h-1v-2h-1v-1h1v1h1v-1h1zM0 21h1v1h-1zM3 21h1v1h-1zM7 21h1v3h1v1h-1v1h1v-1h1v-1h1v-2h1v2h-1v1h-1v1h1v-1h1v-1h1v1h-1v2h-2v1h-1v-1h-1v1h-1v-1h-2v1h2v1h-3v-1h-2v-1h2v-3h1v-1h1v-1h1zM1 22h2v4h-3v-1h1v-1h-1v-1h1zM18 22h1v2h-1zM6 23v1h1v-1zM16 23h1v1h1v1h-1v2h-1v-1h-1v1h-2v-2h1v-1h1v1h1zM34 23h1v2h-1zM36 24h1v1h-1zM6 25v1h1v-1zM35 25h1v1h-1zM15 27h1v1h-1zM0 28h2v1h-2zM8 28h1v3h1v-1h1v1h1v-2h-1v-1h1v1h3v1h-2v1h-1v1h-3v1h-1zM19 29h1v1h-1zM25 29h1v1h-1zM29 29v3h3v-3zM0 30h7v7h-7zM26 30h1v1h-1zM30 30h1v1h-1zM1 31v5h5v-5zM13 31h3v1h-3zM33 31v1h1v-1zM2 32h3v3h-3zM12 32h1v2h-1zM22 32h1v1h-1zM14 33h2v2h1v2h-2v-3h-1zM17 33h2v4h-1v-3h-1zM9 34h1v1h-1zM13 34h1v1h-1zM35 34h1v2h1v1h-3v-2h1zM10 35h3v1h1v1h-5v-1h1zM20 36h2v1h-2zM23 36h1v1h-1zM30 36h1v1h-1zM32 36h1v1h-1z" fill="##000000" transform="translate(0,0) scale(6)"/>
+  </g>
+  
+  <!-- Label Section -->
+  <g transform="translate(0, 252)">
+    <!-- Icon (emoji as text) -->
+    <text x="71" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="20" 
+          fill="#333333">🏷️</text>
+    
+    <!-- Item Title -->
+    <text x="96" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="12" 
+          font-weight="bold"
+          fill="#333333" 
+          text-anchor="start">Droit</text>
+    
+    <!-- Flag -->
+    <text x="191" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="16" 
+          fill="#333333">🇫🇷</text>
+  </g>
+</svg>
