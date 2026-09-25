@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Library | Bullshit Buster</title>
+  <meta http-equiv="refresh" content="0; url=/library/en/">
+  <script>
+    const userLang = navigator.language || navigator.userLanguage;
+    if (userLang.startsWith('fr')) {
+      window.location.href = '/library/fr/';
+    } else {
+      window.location.href = '/library/en/';
+    }
+  </script>
+</head>
+<body>
+  <p>Redirecting... / Redirection...</p>
+  <p><a href="/library/en/">English</a> | <a href="/library/fr/">Français</a></p>
+</body>
+</html>
