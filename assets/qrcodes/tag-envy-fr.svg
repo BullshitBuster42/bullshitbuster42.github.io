@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" 
+     width="262" 
+     height="312" 
+     viewBox="0 0 262 312"
+     class="qr"
+     style="color-scheme: light; forced-color-adjust: none;">
+  
+  <!-- Background -->
+  <rect width="262" height="312" fill="#ffffff"/>
+  
+  <!-- QR Code (centered with padding) -->
+  <g transform="translate(20, 20)">
+    <path d="M0 0h7v7h-7zM8 0h3v1h1v1h-2v-1h-1v1h-1zM13 0h1v2h1v-1h2v-1h1v4h-1v4h1v1h1v-2h-1v-2h1v-1h1v-1h-1v-1h1v1h1v-1h1v-2h1v2h1v-2h1v1h2v-1h1v2h-4v1h1v2h-2v-2h-1v2h-1v-1h-1v1h1v2h-1v-1h-1v1h1v1h4v-2h1v2h-1v1h-3v1h1v1h1v-1h1v-1h1v-1h1v-2h1v-2h-1v-1h2v2h1v2h-1v-1h-1v2h2v1h-4v1h-1v1h-1v1h-2v-1h-1v-1h-4v-1h-1v1h1v1h-1v1h-1v-4h-1v-1h-1v-1h-1v1h-1v-2h-1v2h-1v-4h1v-1h1v1h2v1h1zM19 0h2v1h-2zM30 0h7v7h-7zM1 1v5h5v-5zM31 1v5h5v-5zM2 2h3v3h-3zM15 2v1h-1v1h-1v1h-1v1h1v-1h3v-2h1v-1zM32 2h3v3h-3zM13 6v1h1v-1zM15 6v1h-1v1h2v-2zM22 6h1v1h-1zM9 7h1v1h1v1h-2zM3 8h1v2h-1zM6 8h1v1h-1zM31 8h3v1h-3zM35 8h2v7h-1v-1h-1v-1h1v-3h-1zM0 9h1v1h-1zM5 9h1v1h1v-1h1v1h2v1h-2v1h-1v-1h-1v1h1v1h-2zM12 9h1v2h-2v-1h1zM29 9h2v2h-1v-1h-1zM2 10h1v2h1v2h1v1h-1v1h-1v-2h-2v-2h1zM28 10h1v1h-1zM32 10h3v1h-2v1h-1zM25 11h1v2h-1zM27 11h1v1h3v2h-1v-1h-3zM8 12h3v3h-1v1h1v-1h1v1h-1v1h-2v1h-2v-1h-1v1h1v1h-2v-1h-1v3h-1v1h4v-1h-2v-1h2v-1h1v2h1v-3h1v1h1v1h-1v1h-1v6h-6v1h-1v1h-2v-1h1v-1h-1v-1h1v-1h-1v-2h1v1h1v-3h-1v-2h-1v-1h2v-1h-2v-1h1v-1h-1v-1h1v1h1v1h1v1h2v-1h2v-1h-1v-1h1v-1h1zM16 12h1v1h-1zM18 12h2v1h2v1h-1v2h-1v-2h-2v1h-1v2h-2v-3h-1v1h-1v-1h-1v-1h4v1h1v-1h1zM23 12h1v1h-1zM33 12h1v2h-1zM8 13v2h1v-2zM24 13h1v1h-1zM22 14h1v1h-1zM25 14h1v1h3v-1h1v1h-1v1h3v1h-1v1h-1v1h-1v2h-1v-5h-3v1h-1v-1h-1v-1h2zM31 14h1v1h-1zM34 14h1v1h-1zM35 15h1v2h-1v1h1v-1h1v2h-1v1h-2v-3h-1v-1h2zM12 16h2v1h1v1h1v1h-2v-1h-2zM18 16h1v1h3v-1h1v2h-5zM25 17h1v1h1v2h-1v-1h-3v-1h2zM32 17h1v3h1v1h-3v1h-1v-3h1v1h1zM2 18v2h1v-2zM17 18h1v1h-1zM12 19h1v1h-1zM19 19h1v4h1v-4h2v2h-1v1h2v-1h1v-1h1v2h-2v1h3v1h-1v1h-2v2h-1v1h1v-1h1v-1h1v-1h1v-1h1v1h-1v1h-1v2h-1v1h1v1h-1v2h2v1h-4v-2h1v-1h-1v-1h-2v2h1v1h-1v1h1v2h-2v1h2v-1h2v-1h1v1h-1v1h-1v1h-4v-1h-1v-1h-2v-1h1v-1h-1v-1h-1v1h-2v2h-1v-1h-1v-2h-1v-1h-1v-1h-1v-2h1v-1h1v-2h1v1h1v-2h2v2h1v-1h1v-1h1v-2h1v1h1v-2h-2v-1h2zM14 20h2v1h-2zM10 21h2v1h-1v2h-1zM34 21h3v2h-1v1h-1v-1h-1zM7 22v1h-2v1h-1v-1h-1v1h-1v2h-1v1h1v-1h1v-1h1v1h4v-4zM12 22h1v1h-1zM14 22h2v1h-2zM29 22h1v1h-1zM31 22h2v2h-1v-1h-1zM21 23v1h1v-1zM30 23h1v2h1v1h1v-1h2v1h-1v2h-1v4h1v-2h2v-1h-2v-1h3v3h-2v1h-1v2h1v-1h1v-1h1v3h-1v-1h-1v1h-2v2h-3v-1h-1v1h-2v-2h2v-1h-2v-1h1v-2h-1v-2h1v-3h2v-1h-1v-1h1zM5 24h2v1h-2zM18 24v1h1v-1zM22 24v2h-1v-1h-1v1h-1v1h1v-1h1v2h1v-2h1v-2zM36 24h1v3h-1zM16 25v1h-1v2h-1v1h3v-1h-1v-1h1v1h1v-2h-1v-1zM11 27v1h-2v2h1v1h4v-1h-1v-3zM29 27v1h1v-1zM31 27v1h1v-1zM4 28h3v1h-3zM11 28h1v1h-1zM18 28v1h-1v1h-1v2h1v-2h1v-1h1v1h-1v1h2v-3zM29 29v3h3v-3zM0 30h7v7h-7zM30 30h1v1h-1zM1 31v5h5v-5zM2 32h3v3h-3zM19 32v1h-1v1h1v-1h1v-1zM8 33h1v1h-1zM30 33v3h2v-3zM14 34h1v1h1v2h-1v-1h-2v-1h1zM10 35h1v1h2v1h-4v-1h1zM25 35h1v2h-1zM35 36h2v1h-2z" fill="##000000" transform="translate(0,0) scale(6)"/>
+  </g>
+  
+  <!-- Label Section -->
+  <g transform="translate(0, 252)">
+    <!-- Icon (emoji as text) -->
+    <text x="71" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="20" 
+          fill="#333333">🏷️</text>
+    
+    <!-- Item Title -->
+    <text x="96" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="12" 
+          font-weight="bold"
+          fill="#333333" 
+          text-anchor="start">Envie</text>
+    
+    <!-- Flag -->
+    <text x="191" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="16" 
+          fill="#333333">🇫🇷</text>
+  </g>
+</svg>
