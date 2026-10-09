@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" 
+     width="334" 
+     height="384" 
+     viewBox="0 0 334 384"
+     class="qr"
+     style="color-scheme: light; forced-color-adjust: none;">
+  
+  <!-- Background -->
+  <rect width="334" height="384" fill="#ffffff"/>
+  
+  <!-- QR Code (centered with padding) -->
+  <g transform="translate(20, 20)">
+    <path d="M0 0h7v7h-7zM12 0h1v1h1v-1h4v1h-2v2h-1v-1h-2v1h-1zM23 0h2v1h-1v1h-1zM27 0h1v2h-1zM29 0h1v1h-1zM31 0h2v1h2v-1h3v1h2v-1h1v3h-1v1h-1v-2h-1v3h1v2h-1v-1h-1v-2h-3v-1h2v-1h1v-1h-2v1h-2v1h-2v1h-1v1h-1v-1h-1v-1h1v-1h1v-1h1zM42 0h7v7h-7zM1 1v5h5v-5zM10 1h1v2h1v1h1v-1h1v1h-1v1h1v-1h2v2h-1v-1h-1v1h-1v2h-2v1h-1v-1h-1v2h2v-1h1v4h2v-1h-1v-2h1v-1h1v-2h-1v-1h1v1h1v-1h1v1h1v-1h1v-1h1v-1h-2v-1h1v-1h-1v-1h1v1h2v-1h1v1h-1v1h-1v1h2v-2h1v1h2v-2h1v1h1v3h1v1h-1v1h1v-1h1v2h-1v1h-1v4h1v-1h2v1h-2v1h-1v1h-1v1h1v-1h1v1h-1v1h-3v1h-2v1h1v2h-2v-1h-1v1h1v4h-3v-1h-1v-1h-1v2h-3v-1h-1v1h-1v-1h-1v-1h1v-1h1v1h1v-1h1v-2h-1v-2h-1v-2h-1v-1h-1v-1h-1v1h-1v1h1v-1h1v1h-1v3h1v1h-2v-1h-3v-1h3v-1h-2v-1h-1v1h-1v1h-1v-1h-2v-1h-1v-1h1v1h1v-3h-2v-1h2v1h2v-1h-1v-1h-1v-1h1v-1h-1v-1h2v3h2v-1h1v1h-1v1h2v1h3v-1h-2v-1h-1v-2h-2v-1h2v-2h1v1h1v-1h1v1h1v-2h-1v-1h-1v1h-2v-1h1v-1h1zM31 1v1h1v-1zM43 1v5h5v-5zM2 2h3v3h-3zM44 2h3v3h-3zM25 3v1h1v-1zM31 4h3v2h-1v-1h-1v1h-1zM21 5v2h-1v-1h-1v1h-1v2h-1v-1h-1v1h-1v1h-1v2h1v1h1v-1h1v-1h-1v-1h1v1h2v-1h1v1h6v-1h-3v-1h-2v-2h1v-2zM23 5v3h3v-3zM35 5h1v1h-1zM24 6h1v1h-1zM30 6h1v1h-1zM32 6h1v1h-1zM34 6h1v1h-1zM36 6h1v2h-2v-1h1zM40 6h1v2h-2v-1h1zM31 7h1v2h-1v1h-1v1h-2v-1h1v-2h2zM33 8h2v1h-2zM41 8h2v4h-1v1h-3v-1h-1v-1h-1v-2h1v2h3zM44 8h1v1h-1zM32 9h1v1h-1zM45 9h1v1h1v3h-1v1h1v-1h2v1h-1v1h1v4h-1v1h-1v-2h1v-1h-3v1h-2v-3h-1v-1h1v-2h1v-2h1zM34 10h2v1h1v1h1v1h1v2h-1v1h-1v-1h-2v-1h2v-1h-2v-1h-1v2h-1v-1h-1v-1h1v-1h1zM18 12v2h-1v1h-1v-1h-2v1h-1v3h1v-1h1v1h2v-1h-1v-1h1v1h1v1h-1v1h-3v1h2v1h1v1h2v-2h-1v-2h2v1h1v-2h-1v-3h-1v-1h4v-1zM24 12v1h-1v1h-1v1h-1v2h2v-2h2v-1h-1v-1h1v-1zM44 12v1h1v-1zM6 13v1h1v-1zM30 13h1v1h2v2h-2v-1h-1v6h1v-1h2v-1h-2v-1h1v-1h1v-1h1v-1h1v2h3v-1h1v-1h3v3h-1v1h-1v1h-1v-1h-1v-1h-1v1h1v1h-2v2h-1v-1h-1v-1h-1v3h-1v1h1v-1h1v-1h1v2h-2v1h-2v-3h-1v1h-2v2h2v1h1v2h-1v-1h-1v1h-1v1h-2v-1h1v-1h-5v-1h-1v-1h1v-3h2v-1h1v-2h-1v-1h1v1h2v-1h1v-1h1v-3h1zM3 14v2h1v-1h1v-1zM18 14h1v1h-1zM44 14v1h1v-1zM6 15v1h1v-1zM45 15v1h2v-1zM10 16h1v2h-1zM0 17h1v1h-1zM33 17v1h1v-1zM38 17v1h1v-1zM11 18h1v2h-1zM28 18v2h1v-2zM34 18v1h2v-1zM45 18h1v3h1v1h-1v1h2v1h-1v1h-1v-1h-1v3h-1v1h-1v-1h-1v1h-2v-2h-1v1h-1v-1h-1v1h-1v1h-1v-4h1v-2h1v2h1v1h1v-1h1v-1h-1v-2h-1v-1h1v1h1v1h1v-1h2v1h2zM0 19h3v1h-3zM4 19h1v1h3v2h1v-1h1v-1h1v1h-1v1h-1v3h1v1h-1v2h1v-2h3v1h-2v3h-1v1h-1v1h-1v-2h1v-1h-1v-2h-4v-1h-2v-1h-2v-1h2v-1h-1v-1h1v-1h2zM41 19h1v1h-1zM43 19h1v1h-1zM48 20h1v1h-1zM4 21v1h-2v1h1v2h1v-3h1v-1zM6 21v1h1v-1zM31 21v1h1v-1zM19 22v1h-1v1h1v-1h1v-1zM5 23v3h3v-3zM23 23v3h3v-3zM41 23v3h3v-3zM6 24h1v1h-1zM24 24h1v1h-1zM42 24h1v1h-1zM48 24h1v2h-1v1h-1v-2h1zM16 25h2v1h1v1h1v-1h1v2h-1v2h-1v-1h-1v-2h-1v-1h-1zM1 26h1v1h-1zM32 26h1v1h1v1h1v4h1v-3h1v2h1v-1h1v1h1v1h-2v2h-1v-2h-1v1h-2v-1h-2v2h-3v2h-2v1h1v1h-2v-3h-2v-1h2v-1h1v-1h-1v-1h1v-1h1v-1h1v1h1v1h-1v1h-1v-1h-1v1h1v1h1v-1h2v-2h3v-1h-3v-1h1zM0 27h1v1h6v1h-1v1h-1v-1h-5zM13 27h2v3h1v1h-1v1h-2v2h-1v-1h-1v-1h1v-1h-1v-1h1v1h1zM16 27h1v2h-1zM21 28h1v1h-1zM24 28h1v4h-1zM45 28h2v2h-2zM48 28h1v3h-2v-1h1zM22 29h1v1h-1zM41 29h1v1h2v2h1v1h-1v1h-1v-2h-1v-1h-1zM4 30h1v1h-1zM6 30h1v1h-1zM17 30h2v2h1v-1h1v2h-1v1h-2v-2h-2v-1h1zM1 31h1v2h-2v-1h1zM4 32h4v1h2v1h1v3h-1v-1h-1v-2h-2v-1h-3zM22 32h1v3h-1v2h1v-2h1v1h1v1h-1v1h2v1h-3v-1h-1v1h1v1h4v-1h1v-1h2v1h-2v2h-1v1h2v-1h2v-1h-1v-1h1v1h1v-1h1v2h-2v1h2v-1h1v-2h1v-2h1v-2h1v1h1v-1h1v-2h1v1h1v1h-1v1h1v-1h2v1h-1v1h-2v1h-1v2h-1v1h-1v-3h-1v1h-1v2h-1v2h4v-1h1v-1h1v-1h3v-1h2v-1h-3v-1h1v-1h1v-1h1v-1h1v-1h1v-1h1v1h-1v3h2v2h-1v1h-1v-2h-1v3h-1v1h1v-1h1v2h-1v3h-1v2h2v1h2v1h-4v-1h-2v-2h1v-1h-2v1h-2v1h2v2h-1v-1h-2v-3h-1v-1h-2v2h-1v-1h-1v-1h-1v-1h-1v1h-1v-1h-1v-1h-1v1h1v1h-2v-1h-1v1h1v3h-2v1h-1v-3h-1v2h-2v-1h-1v-4h-1v4h-1v-5h-1v-1h-1v-1h1v-1h1v-1h1v1h-1v3h2v1h1v-2h-2v-2h1v-2h-2v-1h2v-1h1zM2 33h1v1h1v1h-1v1h-1v3h2v1h-1v1h-3v-1h1v-5h-1v-1h1v1h1zM15 33h2v1h1v1h-2v-1h-1zM33 33h1v1h-1zM6 34h1v1h-1zM26 34v1h1v-1zM32 34h1v2h-3v-1h2zM34 34h1v1h-1zM4 35h2v1h-2zM7 35h1v2h2v1h-2v1h1v1h2v1h-1v1h-1v1h-1v-3h-1v-1h-2v-1h-2v-2h1v1h2v-1h1zM12 35h2v1h-2zM15 35h1v1h-1zM14 36h1v2h-1v2h-1v1h2v-2h1v1h1v1h-1v1h-1v1h-1v2h1v-2h1v-1h1v-1h1v2h-2v2h-1v4h-3v-2h-2v-1h-1v1h-1v-2h1v-1h1v2h1v-1h2v-2h-3v-1h1v-1h1v-2h-1v-1h1v-1h2zM16 36h2v1h-1v1h-1zM33 36h1v2h-3v-1h2zM6 37v1h1v-1zM12 38v1h1v-1zM41 38h1v1h-1zM48 39h1v5h-1v-1h-1v-1h1zM6 40h1v1h-1zM23 41v3h3v-3zM35 41h1v1h-1zM41 41v3h3v-3zM0 42h7v7h-7zM24 42h1v1h-1zM39 42v1h-1v1h1v1h1v-3zM42 42h1v1h-1zM1 43v5h5v-5zM2 44h3v3h-3zM30 44h1v1h-1zM17 45h1v1h-1zM22 45v1h1v-1zM26 45v1h1v-1zM31 45h2v1h-1v1h1v-1h2v1h-1v1h-2v1h-1v-1h-1v-1h-1v-1h2zM37 45h1v1h-1zM47 45h2v1h-2zM12 46v1h1v-1zM16 46h1v1h2v1h2v-1h1v1h-1v1h-4v-1h-1zM36 46h1v1h1v1h-1v1h-1zM9 48h2v1h-2zM23 48h1v1h-1zM27 48h3v1h-3zM34 48h1v1h-1zM38 48h1v1h-1z" fill="##000000" transform="translate(0,0) scale(6)"/>
+  </g>
+  
+  <!-- Label Section -->
+  <g transform="translate(0, 324)">
+    <!-- Icon (emoji as text) -->
+    <text x="107" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="20" 
+          fill="#333333">📖</text>
+    
+    <!-- Item Title -->
+    <text x="132" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="12" 
+          font-weight="bold"
+          fill="#333333" 
+          text-anchor="start">The Political Economy o...</text>
+    
+    <!-- Flag -->
+    <text x="227" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="16" 
+          fill="#333333">🇫🇷</text>
+  </g>
+</svg>
