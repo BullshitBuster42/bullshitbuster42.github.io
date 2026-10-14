@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bullshit Buster</title>
+  <meta http-equiv="refresh" content="0; url=/en/">
+  <script>
+    // Detect browser language and redirect
+    const userLang = navigator.language || navigator.userLanguage;
+    if (userLang.startsWith('fr')) {
+      window.location.href = '/fr/';
+    } else {
+      window.location.href = '/en/';
+    }
+  </script>
+</head>
+<body>
+  <p>Redirecting... / Redirection...</p>
+  <p>
+    <a href="/en/">English</a> | 
+    <a href="/fr/">Français</a>
+  </p>
+</body>
+</html>
