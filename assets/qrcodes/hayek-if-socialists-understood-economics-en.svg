@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" 
+     width="358" 
+     height="408" 
+     viewBox="0 0 358 408"
+     class="qr"
+     style="color-scheme: light; forced-color-adjust: none;">
+  
+  <!-- Background -->
+  <rect width="358" height="408" fill="#ffffff"/>
+  
+  <!-- QR Code (centered with padding) -->
+  <g transform="translate(20, 20)">
+    <path d="M0 0h7v7h-7zM8 0h1v2h-1zM10 0h1v1h-1zM13 0h1v2h-2v-1h1zM15 0h4v1h-2v1h-2zM20 0h3v2h-2v1h-1v1h-1v-2h1zM24 0h2v1h1v1h-1v1h1v-1h2v-1h-1v-1h1v1h2v-1h1v1h1v1h-4v2h2v-1h1v1h-1v1h-2v3h1v-2h1v2h2v-1h-1v-2h2v1h-1v1h1v-1h1v1h-1v2h1v1h1v1h1v-2h-1v-1h-1v-1h1v-1h1v1h1v-1h1v1h-1v1h-1v1h1v-1h1v-1h1v-1h1v-2h1v-1h-1v-1h-3v1h-2v-1h-1v-1h-1v-1h1v1h2v-1h2v1h2v-1h2v1h1v2h-1v-1h-1v1h1v4h-1v-1h-1v1h-1v1h1v-1h1v2h-1v1h1v1h-3v-1h1v-1h-2v2h-1v1h1v-1h1v2h-1v1h-1v-1h-2v-2h-3v-1h1v-1h-3v1h-1v4h-1v-1h-1v1h-1v-2h1v-1h1v-1h-1v-1h-1v2h-1v2h-1v2h1v-1h1v1h-1v2h-3v-1h-1v-3h-3v-1h-2v2h-1v-2h-2v-1h-1v-2h1v-1h-1v-2h1v1h1v-2h-1v-1h-1v-1h-1v-1h1v1h1v1h1v1h1v-1h1v-1h1v-1h1v3h-3v3h3v1h-1v2h1v-2h2v-1h-1v-1h-1v-2h2v-1h3v-2h2v-1h-1zM46 0h7v7h-7zM1 1v5h5v-5zM47 1v5h5v-5zM2 2h3v3h-3zM14 2h1v1h-1zM34 2h1v1h-1zM48 2h3v3h-3zM8 3h1v1h1v-1h1v1h1v1h-1v6h1v1h-2v1h1v1h1v-2h1v2h-1v1h-2v-1h-2v1h-2v1h3v1h-1v1h-1v-1h-1v1h-1v-2h-1v-1h1v-1h-2v2h-1v-1h-1v1h-1v-2h2v-1h-2v-4h2v1h-1v2h1v-1h1v1h-1v1h2v-3h-1v-2h1v2h1v-1h1v-1h1v1h-1v1h2v-1h2v-4h-1v2h-1zM24 3v1h-1v1h1v-1h1v-1zM27 3v1h1v-1zM35 3h1v1h1v1h-2zM44 3h1v1h-1zM38 4h1v1h-1zM21 5v2h-1v-1h-1v1h1v1h1v1h3v-3h-1v2h-1v-3zM25 5v3h3v-3zM16 6h1v1h-1zM26 6h1v1h-1zM44 6h1v1h-1zM43 8h2v1h-1v1h-1zM47 8h3v1h1v-1h2v2h-1v-1h-1v1h1v1h-1v1h-1v-2h-2v-1h-1zM14 9v1h-1v1h3v-1h-1v-1zM8 10v1h-2v1h1v1h-2v1h2v-1h2v-1h-1v-1h2v-1zM21 10v1h-1v1h1v-1h1v4h1v-3h1v-1h-1v-1zM46 10h2v1h-1v1h-1zM18 11v1h1v-1zM31 11h1v1h-1zM43 11h2v1h-2zM48 11h1v1h1v1h1v-1h2v1h-2v1h2v1h-1v1h1v4h-1v1h1v1h-1v1h-1v-2h-1v-1h-1v1h-1v-3h-1v-2h1v-1h1v-2h-1v1h-2v-1h-1v-1h1v1h1v-1h1zM30 12h1v1h-1zM40 12h1v2h1v1h1v1h-1v1h-1v-1h-1v1h-1v-1h-1v-2h1v1h1zM17 13h1v2h-2v-1h1zM31 13h4v1h-1v1h2v-1h1v4h-1v2h-1v-2h-1v-1h-1v-2h-2zM13 14h1v1h-1zM29 14h1v1h-1zM44 14h1v2h-1zM12 15h1v1h2v-1h1v1h2v-1h2v1h-2v1h1v1h-2v-1h-1v1h1v1h-2v-2h-1v2h-2v1h-1v-3h-1v-1h2zM27 15h1v1h1v1h-1v1h2v4h-3v-1h2v-2h-2v-1h-1v-1h1zM49 15v1h1v2h1v-3zM30 16h2v3h1v-1h1v1h-1v1h2v1h-1v3h2v-1h-1v-2h2v1h-1v1h1v-1h1v-2h-1v-1h2v1h4v-1h1v-1h-1v-2h1v1h1v1h1v2h1v1h-8v1h3v1h3v-1h2v2h1v-2h1v-1h1v1h-1v2h1v-1h1v1h-1v1h-1v1h4v2h-2v-1h-2v2h-1v2h-2v1h2v-1h2v-1h-1v-1h1v1h1v-1h2v2h-3v1h1v1h-1v1h-1v-2h-1v1h-2v2h-3v-2h2v-1h-3v2h-1v-1h-2v-1h-1v-1h-1v1h1v3h-1v2h-3v1h1v1h-2v1h-2v-1h-1v-2h-1v2h-1v1h-1v-2h1v-1h-1v-1h1v-1h-1v-4h-1v1h-2v-1h-2v-2h-1v-1h1v-2h-1v1h-1v2h1v3h-1v4h-2v-1h-1v1h-1v-2h-2v-2h-2v2h-1v-3h-2v-2h-1v2h-2v-1h1v-1h-2v2h-1v-3h-3v-2h-1v-1h1v-1h-1v-2h1v2h1v3h1v-1h1v-1h-1v-2h-1v-2h-1v-1h-1v-1h1v-1h2v-1h1v1h1v1h-1v2h-1v2h1v-1h3v1h-1v1h1v-1h2v4h2v-1h-1v-4h-2v-3h2v1h-1v1h1v-1h1v1h-1v1h1v-1h1v1h-1v1h1v-1h1v1h1v1h-1v1h-1v-1h-1v2h1v2h-2v2h2v1h1v-1h1v2h1v-1h1v1h-1v1h1v-1h1v-1h1v-1h-3v-1h1v-1h-1v-1h-1v1h-1v-3h1v-1h1v2h2v-1h-1v-2h-1v-1h-1v-1h1v-1h1v1h-1v1h2v2h1v-2h1v2h-1v2h-1v1h-1v1h1v1h1v-1h1v-1h-1v-1h1v-2h1v1h2v-1h1v-5h-1v-1h2v2h1v-2h1v1h1v1h-1v2h-1v-1h-1v3h-1v1h-1v1h1v-1h1v-1h1v-1h1v-1h1v1h-1v1h1v-1h3v1h-1v2h2v-1h-1v-1h1v-3h1v-1h-1v-3h-1zM9 17h1v1h-1zM12 17v1h1v-1zM38 17h1v1h-1zM40 17h1v2h-1zM48 17v1h1v-1zM6 18h1v1h-1zM19 18h1v1h2v1h-3zM1 19v1h2v-1zM17 19h1v1h1v1h-2zM44 19v1h1v-1zM50 19v1h1v-1zM5 20h2v1h-2zM21 21h1v1h-1zM32 21v3h-1v1h1v-1h1v-3zM20 22h1v1h-1zM45 23v1h1v-1zM37 24v1h1v1h1v1h-2v-1h-1v-1h-1v2h2v2h-2v1h-1v-2h-1v1h-1v-1h-1v1h-1v-1h-1v2h2v2h-1v-1h-1v1h-1v3h2v1h1v3h1v-1h1v-3h-1v-1h1v-4h1v2h1v-2h3v-2h2v-1h1v-1h-1v-1h-1v-1zM43 24v1h-2v1h1v1h-1v1h-1v1h1v-1h1v-1h1v-2h1v-1zM5 25v3h3v-3zM25 25v3h3v-3zM45 25v3h3v-3zM6 26h1v1h-1zM26 26h1v1h-1zM46 26h1v1h-1zM23 27v1h-1v1h2v-2zM0 28h1v1h-1zM12 28h1v1h-1zM42 28v1h-1v2h-1v-1h-2v1h1v1h2v-1h1v-1h1v-1h1v-1zM1 29h2v2h-1v-1h-1zM25 29v1h-1v1h1v-1h2v-1zM44 29v1h-1v1h2v-2zM46 29v1h1v-1zM19 30v1h-1v1h-1v2h1v-1h1v-2h1v-1zM0 31h2v1h1v-1h1v1h1v-1h1v1h-1v1h-1v1h3v-1h-1v-1h4v3h1v3h-1v1h1v1h-4v-1h-1v1h1v1h-1v1h1v1h-4v-2h1v-3h1v-1h-1v-1h-4zM22 32h2v1h-2zM29 32h1v2h-1zM31 32h1v1h-1zM35 32v1h-1v2h1v1h1v-4zM52 32h1v2h-2v-1h1zM1 33v1h1v1h1v-2zM8 33v1h-1v1h-1v1h1v-1h1v-1h1v-1zM24 33h2v1h-1v1h-1zM12 34h1v1h1v1h-1v1h-1zM22 34h1v1h-1zM48 34h1v2h-1zM8 35v1h1v-1zM38 35h1v1h1v-1h2v1h1v1h-5zM46 35h1v1h-1zM50 35h2v1h1v1h-1v1h1v1h-2v-3h-1zM14 36h2v1h-2zM21 36h1v1h1v-1h1v1h-1v1h1v2h-1v-1h-1v-1h-1zM25 36h1v3h-1zM47 36h1v1h-1zM1 37h2v1h-2zM6 37v1h2v-1zM13 37h1v1h-1zM17 37h2v2h-1v-1h-1zM37 37h1v1h-1zM46 37h1v1h2v-1h1v4h1v-1h2v3h-1v2h1v1h-1v3h-1v-1h-1v-1h-1v3h1v1h-2v-1h-1v-1h-2v1h-1v-2h-1v1h-2v1h1v3h-1v-1h-2v-1h-1v-1h-1v-1h-2v-1h1v-2h-2v-1h-2v1h-1v-1h-2v2h1v1h1v-1h1v-1h2v2h-1v-1h-1v1h-1v1h1v-1h1v1h-1v1h1v1h-2v2h-6v-1h-1v-1h1v-2h-1v1h-1v-3h-1v3h1v3h-2v-2h-1v-1h-1v-1h-1v-1h1v-1h-1v-3h-1v-1h-3v-3h-2v-1h2v-1h1v4h1v-2h2v1h-1v1h1v-1h2v-1h-1v-1h3v1h-1v2h1v-2h1v1h1v-1h3v1h-1v1h-1v-1h-1v1h-1v1h7v1h1v-2h-4v-1h1v-1h2v1h2v3h2v1h1v-6h1v-1h1v4h-1v1h1v-1h1v-4h1v1h1v-1h1v1h1v1h-3v2h-1v1h1v-1h1v-1h2v1h-2v1h5v-1h3v2h1v-5h-2v2h-1v-1h-1v1h-1v1h-1v-2h1v-1h-1v-1h1v1h1v-1h1zM0 38h1v1h-1zM2 39h1v1h-1zM33 40h1v1h-1zM8 41h1v1h-1zM12 41h1v2h1v1h-1v1h1v-1h1v1h-1v1h1v3h-1v-2h-2v-3h-1v2h-1v-1h-1v-1h1v-1h-1v-1h1v1h1v-1h1zM0 42h2v1h1v1h-2v-1h-1zM19 42v1h1v-1zM33 42h1v1h-1zM50 42v2h-1v1h1v-1h1v-2zM7 43h1v1h-1zM45 43v1h2v-1zM3 44h1v1h-1zM6 44h1v1h-1zM19 44v2h1v1h1v-1h2v-1h-2v-1zM23 44v1h1v-1zM37 44v2h1v1h-1v2h1v1h2v-1h-1v-4h-1v-1zM40 44v1h1v2h2v-2h-1v-1zM43 44v1h1v-1zM8 45h1v1h-1zM25 45v3h3v-3zM45 45v3h3v-3zM0 46h7v7h-7zM26 46h1v1h-1zM46 46h1v1h-1zM1 47v5h5v-5zM11 47h1v1h1v2h-1v-1h-1zM2 48h3v3h-3zM19 48v1h1v-1zM8 49h1v1h-1zM10 49h1v2h-1zM15 49h2v2h3v1h-1v1h-1v-1h-1v1h-3v-1h1zM34 49h1v2h-1zM52 49h1v2h-1v2h-1v-3h1zM13 50h1v1h-1zM26 50v1h1v1h1v-2zM29 50v1h1v-1zM36 50h1v1h-1zM43 50h1v1h-1zM45 50h1v1h-1zM11 51h2v1h-1v1h-1zM37 51h1v1h-1zM47 51h1v1h2v1h-4v-1h1zM34 52h1v1h-1zM36 52h1v1h-1zM38 52h1v1h-1zM44 52h1v1h-1z" fill="##000000" transform="translate(0,0) scale(6)"/>
+  </g>
+  
+  <!-- Label Section -->
+  <g transform="translate(0, 348)">
+    <!-- Icon (emoji as text) -->
+    <text x="119" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="20" 
+          fill="#333333">🔍</text>
+    
+    <!-- Item Title -->
+    <text x="144" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="12" 
+          font-weight="bold"
+          fill="#333333" 
+          text-anchor="start">&quot;If Socialists Understo...</text>
+    
+    <!-- Flag -->
+    <text x="239" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="16" 
+          fill="#333333">🇬🇧</text>
+  </g>
+</svg>

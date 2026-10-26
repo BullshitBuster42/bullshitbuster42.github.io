@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /assets/
+Allow: /assets/images/
+Sitemap: https://bullshitbuster.eu/sitemap.xml

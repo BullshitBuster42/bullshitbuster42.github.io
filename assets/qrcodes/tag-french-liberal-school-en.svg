@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" 
+     width="310" 
+     height="360" 
+     viewBox="0 0 310 360"
+     class="qr"
+     style="color-scheme: light; forced-color-adjust: none;">
+  
+  <!-- Background -->
+  <rect width="310" height="360" fill="#ffffff"/>
+  
+  <!-- QR Code (centered with padding) -->
+  <g transform="translate(20, 20)">
+    <path d="M0 0h7v7h-7zM11 0h2v1h-1v3h-1v1h-1v-1h-1v-1h2zM14 0h1v1h-1zM19 0h4v1h-2v2h-1v1h-1v3h-1v-2h-1v2h-1v-3h-1v-1h1v1h1v-2h1v1h1v-1h1v-1h-1zM24 0h1v1h-1zM27 0h4v1h1v2h1v1h-4v1h-2v-1h-1v-1h-2v-1h-1v-1h1v1h1v-1h1v2h1v-1h1v-1h-1zM36 0h1v1h-1zM38 0h7v7h-7zM1 1v5h5v-5zM9 1h1v1h-1zM13 1h1v3h-1zM33 1h1v1h-1zM35 1h1v2h1v2h-4v-1h2zM39 1v5h5v-5zM2 2h3v3h-3zM22 2h1v1h1v1h2v1h-1v2h1v-1h1v1h-1v1h1v1h3v-1h1v1h1v1h-1v1h1v-1h1v-3h-1v-2h1v2h1v-1h1v2h-1v2h-1v1h1v-1h1v-1h1v-3h1v2h2v1h-1v1h-3v2h-1v2h-1v-2h-1v2h-1v-1h-1v-1h-1v-1h-1v-1h-2v-1h-2v1h1v1h-1v2h-1v-1h-2v-1h-1v-7h2zM28 2v1h-1v1h1v-1h1v-1zM30 2v1h1v-1zM40 2h3v3h-3zM8 4h1v1h-1zM9 5h1v1h-1zM11 5h1v1h-1zM21 5v3h3v-3zM29 5h2v2h-1v-1h-1zM8 6h1v2h1v-2h1v1h1v-1h1v1h-1v2h2v2h-1v2h1v1h-1v1h2v-1h2v-2h1v-1h-3v-1h2v-1h-1v-1h2v1h1v1h-1v1h1v1h-1v2h-1v1h-2v1h-1v1h-2v-1h-1v1h1v1h-1v1h-1v-2h-2v-1h-1v-1h-1v-1h-1v1h-1v-2h-1v-1h-1v-1h-1v-2h1v-1h2v3h2v-1h-1v-1h1v-1h2zM14 6h1v2h-2v-1h1zM22 6h1v1h-1zM28 6h1v1h-1zM40 8h1v3h-2v-1h1zM6 9v1h1v-1zM9 9v1h-2v1h-1v1h1v-1h3v-1h1v-1zM22 9v1h-1v1h2v-2zM42 9h1v1h1v-1h1v2h-3zM2 10v1h1v-1zM29 10v1h1v-1zM0 11h1v1h1v3h1v2h-1v-1h-1v1h1v1h-2v-3h1v-2h-1zM10 11v1h2v-1zM36 11h2v1h-2zM41 11h1v1h-1zM4 12v1h1v-1zM8 12v2h-1v-1h-1v1h1v1h2v-1h1v1h2v-1h-1v-1h-2v-1zM25 12h2v2h1v-1h2v1h-2v1h-1v1h-2v1h-1v-2h-1v-1h2zM39 12h1v1h-1zM43 12h1v2h-3v-1h2zM19 13h3v2h-2v1h3v1h-2v1h-1v-1h-2v-1h1v-1h-1v-1h1zM37 13h2v2h-1v-1h-1zM25 14v1h1v-1zM30 14h1v2h-1zM32 14h1v1h1v2h2v-1h-1v-1h2v2h-1v3h-1v-1h-4v2h-1v-2h-1v-1h-1v1h1v2h1v2h1v-2h1v1h1v1h-1v1h-3v-1h-1v1h1v4h-1v-1h-1v-1h-2v2h-1v-1h-1v1h1v1h-3v-2h-1v1h-1v-1h-1v-2h-1v-1h1v-1h-3v-1h-3v-1h-1v2h-1v2h-1v1h-1v-1h-2v1h2v1h-3v-2h-1v1h-1v-1h-2v2h-1v-6h1v2h2v-1h-1v-3h1v2h1v-2h1v-1h-1v-2h3v1h-2v1h4v4h1v-2h1v-1h1v-1h1v1h-1v2h1v-2h4v1h-3v1h1v1h1v-1h1v1h1v-1h1v-2h-1v-1h1v1h1v1h1v-2h1v2h2v-1h-1v-2h1v1h1v-1h1v1h-1v2h1v-2h1v-1h1v-2h1v3h2v-2h1zM40 15h5v1h-1v1h1v1h-1v3h-1v1h1v-1h1v2h-3v1h-1v1h-1v1h-1v-1h-1v2h-1v-2h-1v-2h-1v1h-2v-1h1v-1h1v-1h1v-1h2v-1h-1v-1h2v2h1v-1h1v3h1v-2h1v-1h-1v-3h-2zM15 16h1v1h-1zM39 16h1v1h-1zM14 17h1v1h-1zM5 19v1h2v-1zM27 20v2h-1v-1h-1v1h1v1h-1v2h1v-2h1v-1h1v-2zM5 21v3h3v-3zM21 21v3h3v-3zM37 21v3h3v-3zM6 22h1v1h-1zM19 22v2h1v-2zM22 22h1v1h-1zM38 22h1v1h-1zM13 23h2v2h-2v1h2v-1h1v1h-1v1h-2v2h-1v-1h-1v-1h-1v-2h1v1h1v-2h1zM43 24h2v1h-1v1h-1v1h1v2h1v1h-1v1h-1v-2h-2v1h-1v2h-1v-4h-1v-1h1v1h2v-1h-1v-1h1v1h1v-2h1zM20 25v1h1v1h1v-1h2v-1zM31 25h1v1h-1zM33 25h1v1h-1zM2 26h1v1h-1zM32 26h1v2h1v-1h1v-1h1v1h1v1h-1v1h-1v1h1v-1h1v-1h1v1h-1v1h1v1h-1v1h-1v-1h-2v1h1v1h-2v-3h-2v2h1v1h1v1h2v1h1v-1h1v-1h1v-1h1v4h2v-3h1v-1h2v1h-1v1h-1v3h1v-1h1v2h-2v1h1v1h1v1h-2v-1h-1v1h-3v1h1v1h2v-2h1v1h1v1h-2v2h-1v-1h-1v1h-1v-2h-3v1h-2v-1h1v-1h-3v2h1v1h-2v-3h-1v-1h-1v3h-1v-1h-2v1h-1v-1h-1v-1h3v-1h-5v1h1v1h-2v-6h-1v-1h-1v1h1v3h-2v-1h-1v1h1v1h-2v-3h-1v-1h-1v-1h1v1h2v1h1v-4h-1v-1h-1v-1h-2v-3h1v-1h1v-1h2v2h-2v1h-1v1h1v-1h1v1h-1v1h1v1h1v-1h1v-1h1v1h-1v2h1v-2h1v-1h1v1h-1v2h-1v1h1v-1h2v2h1v-1h1v1h1v-2h-1v-3h-1v1h-1v-2h2v-1h1v-1h1v-1h1v1h-1v1h-1v2h1v-2h1v-1h1v1h-1v2h1v2h1v-1h1v-1h-1v-2h1v-1h2zM1 27h1v1h2v1h-2v5h-1v-3h-1v-1h1zM6 28h1v1h-1zM8 28h1v1h1v-1h1v2h-3zM5 29h1v1h-1zM18 29h2v1h-2zM3 30h2v1h-2zM6 30h2v3h1v-1h1v-1h1v1h-1v2h-1v1h-1v-1h-1v-1h-1v-1h1v-1h-1zM41 30h1v1h-1zM11 32h2v2h-1v-1h-1zM14 33h1v2h-2v-1h1zM30 33v1h-2v1h-1v-1h-1v2h-1v4h1v-2h1v-1h-1v-1h3v-1h3v-1h-1v-1zM44 33h1v2h-1zM4 34h1v3h-2v-1h-2v-1h3zM6 34h1v1h-1zM10 34h1v1h1v1h-2zM15 35h1v1h-1zM0 36h1v1h-1zM6 36h2v1h-2zM30 36v1h-2v1h-1v1h1v1h1v1h2v-1h-1v-1h-1v-1h1v-1h1v1h-1v1h1v-1h1v1h1v-2h1v-1zM35 36v1h-1v2h-1v1h1v1h2v-1h-1v-2h1v-2zM8 37h3v1h-2v1h-1zM12 37h1v1h-1zM21 37v3h3v-3zM37 37v3h3v-3zM0 38h7v7h-7zM11 38h1v4h-2v1h-2v-2h2v-2h1zM13 38h1v3h-1zM22 38h1v1h-1zM38 38h1v1h-1zM1 39v5h5v-5zM2 40h3v3h-3zM26 40v1h1v-1zM14 41h1v1h-1zM17 41h1v1h1v1h-1v1h1v-1h1v1h1v1h-4zM44 41h1v1h-1zM12 42h1v1h1v1h-1v1h-1zM15 43h1v2h-1zM44 43h1v1h-1zM10 44h1v1h-1zM22 44h2v1h-2zM25 44h1v1h-1zM28 44h1v1h-1zM35 44h1v1h-1zM42 44h1v1h-1z" fill="##000000" transform="translate(0,0) scale(6)"/>
+  </g>
+  
+  <!-- Label Section -->
+  <g transform="translate(0, 300)">
+    <!-- Icon (emoji as text) -->
+    <text x="95" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="20" 
+          fill="#333333">🏷️</text>
+    
+    <!-- Item Title -->
+    <text x="120" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="12" 
+          font-weight="bold"
+          fill="#333333" 
+          text-anchor="start">French Liberal School</text>
+    
+    <!-- Flag -->
+    <text x="215" 
+          y="20" 
+          font-family="Arial, sans-serif" 
+          font-size="16" 
+          fill="#333333">🇬🇧</text>
+  </g>
+</svg>
